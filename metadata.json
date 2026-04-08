@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Product Image Generator",
+  "description": "Convert basic mobile product photos into professional Amazon listing images automatically.",
+  "requestFramePermissions": []
+}
